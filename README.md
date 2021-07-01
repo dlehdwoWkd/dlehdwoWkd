@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am currently learning about frontend for now.
+It hasn't been long since I started learning about this, so I'm still in the beginner stage.
 <!--
 **dlehdwoWkd/dlehdwoWkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
