@@ -3,7 +3,7 @@
 ### It hasn't been long since I started learning about this, so I'm still in the beginner stage. 
 
 
-**I'm currently learning about *GIT* and *CLI* for right now.**
-**I'm looking for help with *Basic things about CLI.**
-**How to reach me: *tgdj96@gmail.com*.**
+**I'm currently learning about *GIT* and *CLI* for right now.**  
+**I'm looking for help with *Basic things about CLI.**  
+**How to reach me: *tgdj96@gmail.com*.**  
  
